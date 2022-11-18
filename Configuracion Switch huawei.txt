@@ -1,0 +1,612 @@
+
+
+Login authentication
+
+
+Username:
+Error: The username times out.
+Username:
+Error: The username times out.
+Username:admin
+Password:
+Error: Authentication fail
+
+
+
+
+
+
+User interface con0 is available
+
+
+
+Please Press ENTER.
+
+
+Login authentication
+
+
+Username:admin
+Password:
+Error: Authentication fail
+
+Username:
+Username:admin
+Password:
+Error: Authentication fail
+
+Username:
+Error: The username times out.
+
+
+
+
+
+User interface con0 is available
+
+
+
+Please Press ENTER.
+
+
+Login authentication
+
+
+Username:admin
+Password:
+Error: Authentication fail
+
+Username:admin
+Password:
+Error: Authentication fail
+
+Username:▒▒
+BIOS loading ...
+DDR3 Training Sequence - Ver TIP-42.H-1.0.0
+DDR3 Training Sequence - Switching XBAR Window to FastPath Window
+DDR3 Training Sequence - Ended Successfully
+BootROM: Image checksum verification PASSED
+
+
+U-Boot (Dec 19 2019 - 19:23:11)
+
+
+The press of Ctrl+T before TEST is room test
+Press Ctrl+T to Start Memory Test:  0
+Board: ES5D2T28S008
+NAND:  512 MB
+Using default environment
+
+FPU initialized to Run Fast Mode.
+USB2.0 0: Host Mode
+Net:   egiga0 [PRIME], egiga1
+
+Boot from main : boot num[1]
+
+Starting kernel ...Get log address 0xe0a80050
+
+
+
+
+INIT: version 2.88 booting
+Starting udev
+Starting Bootlog daemon: bootlogd.
+Populating dev cache
+INIT: Entering runlevel: 3ge = 5
+Starting syslogd/klogd: done
+Stopping Bootlog daemon: bootlogd.
+
+Wind River Linux 6.0.0.34 localhost console
+
+localhost login: root (automatic login)
+
+Dec 25 2019, 16:08:11
+mknod: /dev/mvPP: File exists
+BootLoad version : 020b.0a06
+Backup U-Boot ............................................................. done
+
+Press Ctrl+B or Ctrl+E to enter BootLoad menu:  0
+bNow, the current startup file is flash:/s5720li-v200r011c10spc600.cc
+
+Info: Check signature, please wait............
+
+ patch load bin, no need to update.
+
+
+System total memory is 0x15200000
+
+Start to initialize the LSW ...
+Initializing the LSW ...................................................... done
+Initializing netlink ...................................................... done
+Initializing fast netlink ................................................. done
+Backup BootLoad ........................................................... done
+Backup Kernel ............................................................. done
+Backup RamDisk ............................................................ done
+
+Stack status : enable
+ECM Stack status : run
+
+Stack status : enable
+Initializing FSP task begin ...
+
+Initializing DEV module ................................................... done
+
+Initializing hardware system .............................................. done
+Begin to start the system ...
+
+Registering IPC and VP callback to platform ............................... done
+
+Initializing VFS ..................................... Done
+Checking startup system-software .......................................... done
+Reading PAF file .......................................................... done
+Initializing VOS monitor ............................. Done
+CFM initialization advance ........................... done
+Initializing PAT ..................................... Done
+Initializing HA ...................................... done
+VFS registering to HA ................................ Done
+
+VRP root begin ...
+VRP root end
+CFG initialization begin ............................. done
+CFM initialization begin ............................. done
+CLI initialization begin ............................. done
+Registering VRP all link command begin ............... Done
+Creating task begin ...
+Creating task end
+Task initialization begin ...
+Task initialization end
+
+ECMM status : run
+Cmd registering begin ...
+Cmd registering end
+
+Task awake begin ...
+Task awake end
+
+Recover configuration begin ...
+Recover configuration end
+Press ENTER to get started.
+
+
+Login authentication
+
+
+Username:admin
+Password:
+Error: Authentication fail
+
+Username:▒▒
+BIOS loading ...
+DDR3 Training Sequence - Ver TIP-42.H-1.0.0
+DDR3 Training Sequence - Switching XBAR Window to FastPath Window
+DDR3 Training Sequence - Ended Successfully
+BootROM: Image checksum verification PASSED
+
+
+U-Boot (Dec 19 2019 - 19:23:11)
+
+
+The press of Ctrl+T before TEST is room test
+Press Ctrl+T to Start Memory Test:  0
+Board: ES5D2T28S008
+NAND:  512 MB
+Using default environment
+
+FPU initialized to Run Fast Mode.
+USB2.0 0: Host Mode
+Net:   egiga0 [PRIME], egiga1
+
+Boot from main : boot num[1]
+
+Starting kernel ...Get log address 0xe0a80050
+
+
+
+
+INIT: version 2.88 booting
+Starting udev
+Starting Bootlog daemon: bootlogd.
+Populating dev cache
+INIT: Entering runlevel: 3ge = 5
+Starting syslogd/klogd: done
+Stopping Bootlog daemon: bootlogd.
+
+Wind River Linux 6.0.0.34 localhost console
+
+localhost login: root (automatic login)
+
+Dec 25 2019, 16:08:11
+mknod: /dev/mvPP: File exists
+BootLoad version : 020b.0a06
+Backup U-Boot ............................................................. done
+
+Press Ctrl+B or Ctrl+E to enter BootLoad menu:  1
+
+Password:
+
+The password is wrong
+Password:
+
+The password is wrong
+Password:
+
+The password is wrong
+The password is wrong, system will reboot...
+
+
+INIT: Sending processes the TERM signal
+Stopping syslogd/klogd: stopped syslogd (pid 1509)
+stopped klogd (pid 1512)
+done
+Sending all processes the TERM signal...
+Sending all processes the KILL signal...
+Unmounting remote filesystems...
+Deactivating swap...
+Unmounting local filesystems...
+Rebooting... Restarting system.
+▒▒
+BIOS loading ...
+DDR3 Training Sequence - Ver TIP-42.H-1.0.0
+DDR3 Training Sequence - Switching XBAR Window to FastPath Window
+DDR3 Training Sequence - Ended Successfully
+BootROM: Image checksum verification PASSED
+
+
+U-Boot (Dec 19 2019 - 19:23:11)
+
+
+The press of Ctrl+T before TEST is room test
+Press Ctrl+T to Start Memory Test:  0
+Board: ES5D2T28S008
+NAND:  512 MB
+Using default environment
+
+FPU initialized to Run Fast Mode.
+USB2.0 0: Host Mode
+Net:   egiga0 [PRIME], egiga1
+
+Boot from main : boot num[2]
+
+Starting kernel ...Get log address 0xe0a00028
+
+
+
+
+INIT: version 2.88 booting
+Starting udev
+Starting Bootlog daemon: bootlogd.
+Populating dev cache
+INIT: Entering runlevel: 3ge = 5
+Starting syslogd/klogd: done
+Stopping Bootlog daemon: bootlogd.
+
+Wind River Linux 6.0.0.34 localhost console
+
+localhost login: root (automatic login)
+
+Dec 25 2019, 16:08:11
+mknod: /dev/mvPP: File exists
+BootLoad version : 020b.0a06
+Backup U-Boot ............................................................. done
+
+Press Ctrl+B or Ctrl+E to enter BootLoad menu:  0
+
+Password:
+
+The password is wrong
+Password:
+
+
+The default password is used now. Change the password.
+
+        BootLoad Menu
+
+     1. Boot with default mode
+     2. Enter serial submenu
+     3. Enter startup submenu
+     4. Enter ethernet submenu
+     5. Enter filesystem submenu
+     6. Enter password submenu
+     7. Clear password for console user
+     8. Reboot
+    (Press Ctrl+E to enter diag menu)
+
+Enter your choice(1-8): 7
+
+Note: Clear password for console user? Yes or No(Y/N): y
+Clear password for console user successfully.
+Note: Choose "1. Boot with default mode" to boot, then set a new password
+
+        BootLoad Menu
+
+     1. Boot with default mode
+     2. Enter serial submenu
+     3. Enter startup submenu
+     4. Enter ethernet submenu
+     5. Enter filesystem submenu
+     6. Enter password submenu
+     7. Clear password for console user
+     8. Reboot
+    (Press Ctrl+E to enter diag menu)
+
+Enter your choice(1-8): 1
+Now, the current startup file is flash:/s5720li-v200r011c10spc600.cc
+
+Info: Check signature, please wait............
+
+ patch load bin, no need to update.
+
+
+System total memory is 0x15200000
+
+Start to initialize the LSW ...
+Initializing the LSW ...................................................... done
+Initializing netlink ...................................................... done
+Initializing fast netlink ................................................. done
+Backup BootLoad ........................................................... done
+Backup Kernel ............................................................. done
+Backup RamDisk ............................................................ done
+
+Stack status : enable
+ECM Stack status : run
+
+Stack status : enable
+Initializing FSP task begin ...
+
+Initializing DEV module ................................................... done
+
+Initializing hardware system .............................................. done
+Begin to start the system ...
+
+Registering IPC and VP callback to platform ............................... done
+
+Initializing VFS ..................................... Done
+Checking startup system-software .......................................... done
+Reading PAF file .......................................................... done
+Initializing VOS monitor ............................. Done
+CFM initialization advance ........................... done
+Initializing PAT ..................................... Done
+Initializing HA ...................................... done
+VFS registering to HA ................................ Done
+
+VRP root begin ...
+VRP root end
+CFG initialization begin ............................. done
+CFM initialization begin ............................. done
+CLI initialization begin ............................. done
+Registering VRP all link command begin ............... Done
+Creating task begin ...
+Creating task end
+Task initialization begin ...
+Task initialization end
+
+ECMM status : run
+Cmd registering begin ...
+Cmd registering end
+
+Task awake begin ...
+Task awake end
+
+Recover configuration begin ...
+Recover configuration end
+Press ENTER to get started.
+
+Warning: There is a risk on the user-interface which you login through. Please c                                                                                hange the configuration of the user-interface as soon as possible.
+
+<SWD01-COE-MZN-ROCIO>dis cur
+!Software Version V200R011C10SPC600
+#
+sysname SWD01-COE-MZN-ROCIO
+#
+vlan batch 10 to 13 999 to 1003 1005
+#
+stp mode rstp
+stp instance 0 root primary
+#
+authentication-profile name default_authen_profile
+authentication-profile name dot1x_authen_profile
+authentication-profile name mac_authen_profile
+authentication-profile name portal_authen_profile
+authentication-profile name dot1xmac_authen_profile
+authentication-profile name multi_authen_profile
+#
+domain coeficiente.mx
+domain coeficiente.mx admin
+#
+set save-configuration delay 1
+set save-configuration backup-to-server server 10.1.199.10 transport-type ftp us                                                                                er rbackup password %^%#G}AN*RTd1IA.i$"aHwi0t,AB'r|7'*/gy`+5VW99%^%# path /Confi                                                                                guraciones/SWDXX/12/
+#
+radius-server template default
+radius-server template radius-coe
+ radius-server shared-key cipher %^%#^.4;6*;ry1yEmS1d<fJ8fGEAQcH=;F=q-zKZ!"D*%^%#
+ radius-server authentication 10.1.0.21 1812 weight 80
+ radius-server accounting 10.1.0.21 1813 weight 80
+ undo radius-server user-name domain-included
+#
+pki realm default
+ certificate-check none
+#
+free-rule-template name default_free_rule
+#
+portal-access-profile name portal_access_profile
+#
+vlan 10
+ description DEDICADO
+vlan 11
+ description CORPORATIVO
+vlan 12
+ description PYME
+vlan 13
+ description RESIDENCIAL
+vlan 999
+ description ADMON-ANTENAS
+vlan 1000
+ name L2L-1808-0001
+vlan 1001
+ name L2L-1809-0001
+vlan 1002
+ name L2L-1812-0001
+vlan 1003
+ name L2L-2009-0001
+vlan 1005
+ name L2L-2105-0002
+#
+aaa
+ authentication-scheme default
+ authentication-scheme radius
+  authentication-mode radius
+ authentication-scheme auth-coe
+  authentication-mode local radius
+ authorization-scheme default
+ accounting-scheme default
+ accounting-scheme acco-coe
+  accounting start-fail online
+ local-aaa-user password policy administrator
+  password history record number 0
+  password expire 0
+ service-scheme serv-coe
+  admin-user privilege level 15
+ domain default
+  authentication-scheme radius
+  radius-server default
+ domain default_admin
+  authentication-scheme default
+ domain coeficiente.mx
+  authentication-scheme auth-coe
+  accounting-scheme acco-coe
+  service-scheme serv-coe
+  radius-server radius-coe
+ local-user admin password irreversible-cipher $1a$B+5$D0!]C#$:9a=/tnE1$"BL=$|D{1MuM}8"EP@V>74}4XqOqa'$
+ local-user admin privilege level 15
+ local-user admin service-type terminal http
+  ---- More ----
+Dec  6 2020 00:06:14 SWD01-COE-MZN-ROCIO %%01EZOP/3/PROCESS_STOP(l)[0]:Easy-operation upgrade process has been stopped(Reason=There is a configuration file in t local-user coenet password irreversible-cipher $1a$eR,xF7+7gR$YtOi4Ss:9Rvfg,5{wU^'u~:77'](cRsI5a,"aZBA$
+ local-user coenet privilege level 15
+ local-user coenet service-type ssh
+#
+interface Vlanif1
+ ip address 172.16.12.11 255.255.255.0
+#
+interface Eth-Trunk0
+ description LACP a RACC01-COE-MZN-ROCIO
+ port link-type trunk
+ port trunk allow-pass vlan 2 to 4094
+ stp disable
+ mode lacp
+#
+interface GigabitEthernet0/0/1
+ description CONEXION A SWA01-COE-ROCIO
+ port link-type trunk
+ port trunk allow-pass vlan 2 to 4094
+ stp disable
+#
+interface GigabitEthernet0/0/2
+ description CONEXION A SWA02-ROCIO
+ port link-type trunk
+ port trunk allow-pass vlan 2 to 4094
+ stp disable
+#
+interface GigabitEthernet0/0/3
+ description CONEXION A SWA03-ROCIO
+ port link-type trunk
+ port trunk allow-pass vlan 2 to 4094
+ stp disable
+#
+interface GigabitEthernet0/0/4
+ description CONEXION A SWA04-ROCIO
+ port link-type trunk
+ port trunk allow-pass vlan 2 to 4094
+ stp disable
+#
+interface GigabitEthernet0/0/5
+ description CONEXION A SWA05-ROCIO
+ port link-type trunk
+ port trunk allow-pass vlan 2 to 4094
+ stp disable
+#
+interface GigabitEthernet0/0/6
+ description CONEXION A SWA06-ROCIO
+ port link-type trunk
+ port trunk allow-pass vlan 2 to 4094
+ stp disable
+#
+interface GigabitEthernet0/0/7
+#
+interface GigabitEthernet0/0/8
+#
+interface GigabitEthernet0/0/9
+#
+interface GigabitEthernet0/0/10
+#
+interface GigabitEthernet0/0/11
+#
+interface GigabitEthernet0/0/12
+#
+interface GigabitEthernet0/0/13
+#
+interface GigabitEthernet0/0/14
+#
+interface GigabitEthernet0/0/15
+ description ANTENA WND
+ port link-type access
+ port default vlan 10
+#
+interface GigabitEthernet0/0/16
+#
+interface GigabitEthernet0/0/17
+ description ROUTER WIFI
+ port link-type access
+ port default vlan 10
+#
+interface GigabitEthernet0/0/18
+#
+interface GigabitEthernet0/0/19
+ description UPS-COE-ROCIO
+ port link-type access
+#
+interface GigabitEthernet0/0/20
+ description DVR01-COE-ROCIO
+ port link-type access
+#
+interface GigabitEthernet0/0/21
+#
+interface GigabitEthernet0/0/22
+#
+interface GigabitEthernet0/0/23
+ description CONEXION A LACP01-1-RBB01-COE-ROCIO
+ eth-trunk 0
+#
+interface GigabitEthernet0/0/24
+ description CONEXION A LACP01-2-RBB01-ROCIO
+ eth-trunk 0
+#
+interface XGigabitEthernet0/0/1
+#
+interface XGigabitEthernet0/0/2
+#
+interface XGigabitEthernet0/0/3
+#
+interface XGigabitEthernet0/0/4
+#
+interface NULL0
+#
+ip route-static 0.0.0.0 0.0.0.0 172.16.12.1
+#
+stelnet ipv4 server enable
+stelnet ipv6 server enable
+ssh ipv4 server port 6969
+ssh ipv6 server port 6969
+#
+user-interface con 0
+ authentication-mode none
+user-interface vty 0 4
+ authentication-mode aaa
+ protocol inbound all
+user-interface vty 16 20
+#
+dot1x-access-profile name dot1x_access_profile
+#
+mac-access-profile name mac_access_profile
+#
+return
+<SWD01-COE-MZN-ROCIO>
